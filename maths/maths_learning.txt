@@ -1,0 +1,38 @@
+INFO - Documents daily Math topics
+----------------------------------
+
+
+`
+
+Date : 23-5-16
+--------------
+Topics covered : 
+	1: natural numbers 
+	2: whole numbers 
+	3: integers
+
+	Integers
+	--------
+	- Integers are whole numbers, including +ve, -ve and zero natural numbers
+	- Integers are denoted by Z
+	  Example : -4, -3, -2, -1, 0, 1, 2, 3, 4
+	- On number line, if we move towards right, value increases
+	- On number line, if we move towards left, value decreases
+	  Example : 4 > 3, -4 < -3
+	- All -ve numbers are less than zero
+	- All +ve numbers are greater than zero
+	- Zero is neither -ve nor +ve
+	- Absolute value of number, it is distance between 0 and number, irrespective of sign
+	  Example -3, -2, -1, 0, 1, 2, 3 (Disatance between 0, 2 is 2 and 0, -2 is also 2)
+	- Absolute value of number n is written |n| 
+	  Example |3| is 3 and |-3| is 3
+
+	Whole Numbers
+	-------------
+	- Whole numbers are +ve numbers including zero. They do not include any decimal or fractional part
+	- Whole number are denoted by N
+
+	Natural Numbers
+	---------------
+	- Numbers that appear naturally and commonly in nature
+	- Natural numbers include {0, 1, 2, ...}
