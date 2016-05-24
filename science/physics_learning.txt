@@ -1,2 +1,17 @@
 Documents Physics Learning
+--------------------------
+
+Date : 24-May-2016
+------------------
+
+Topics : Heat and its effect
+			- Raise in temparature (Temperature is a measure of heat)
+			- Expansion of materials  (Expansion in metals)
+			- Change of state (Solid -> Liquid -> Gas)
+			- Chemical and Biological changes
+			- Range of heat (Cold to Hot)
+			- Condution of heat (Metals are good condutor and non metals are bad condutor)
+			- Experiment to illusrtate effect of heat
+
+
 
