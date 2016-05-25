@@ -1,6 +1,12 @@
 INFO - Documents daily Math topics
 ----------------------------------
-
+Date : 25-5-16
+--------------
+Topics covered :
+	1: Adding integers using number line
+	2: Adding integers without using number line
+	3: A word problem
+	4: Learnt about simplifying addition and subtraction with mixed signed and unsigned numbers.
 
 `
 
