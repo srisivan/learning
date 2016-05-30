@@ -1,5 +1,38 @@
 INFO - Documents daily Math topics
 ----------------------------------
+
+Date : 27-5-16
+--------------
+Taken leave due to stomach ache.
+Topics covered :
+	1: Solved problems including negative and positive integers.
+	2: A word problem using negative and positive integers.
+Date : 30-5-16
+--------------
+Topics covered :
+	1: A word problem.
+	2: Filling blanks using integers with properties.
+	3: Verifing values 'a' and 'b' with the formula a-(-b) = a + b
+		- such as, 'a' = 100 and 'b' = 200,when the formula applied becomes,
+				*100 - ( - 200 ) = 100 + 200.
+			    *100 - ( - 200 ) = 300,
+				*100 + 200 = 300. 300 = 300
+	       	~ Therefore the property satisafies the case.
+	4: Satisafying greater( > ) or smaller( < ) or equal with integers.
+
+Date : 26-5-16
+--------------
+Topics covered :
+	1: Solved problems including negative and positive integers.
+	2: Learnt about four properties of addition of integers.They are,
+		- Closure.
+		- Commutative.
+		- Assosiative.
+		- Additive Identity.
+	- Closure property :
+		- for two integers a and b,(a + b) will also be an integer.
+	- Commutative property :
+		- for two in
 Date : 25-5-16
 --------------
 Topics covered :
