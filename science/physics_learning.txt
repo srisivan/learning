@@ -1,5 +1,17 @@
 Documents Physics Learning
 --------------------------
+Date : 31-May-2016
+------------------
+Topics : about thermometer
+			 1: parts of a thermometer
+				- a bulb
+				- the stem
+				-capillary tube.
+			 2: the reason mercury is used :
+				-it can be seen through the glass,but water cannot.
+				it does not stick to any surface.
+			 3: the reason alcohol is used in very cold placesb:
+				-it's boiling point is below than the boiling point of water
 Date : 28-May-2016
 ------------------
 Topics : Heat and its effects
