@@ -1,5 +1,9 @@
 Documents learning in Kannada
 -----------------------------
+Date : 31-May-2016
+-----------------
+Topic : Question/answer in first poem(Gida Mara)
+
 Date : 27-May-2016
 ------------------
 Topic : writing the poem in c.w (Gida Mara)
