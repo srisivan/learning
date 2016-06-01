@@ -1,6 +1,16 @@
 
 INFO - Documents daily Math topics
 ----------------------------------
+Date : 1-6-16
+-------------
+Topics covered :
+	1: properties of multiplication of integers
+		-Closure property
+		-Commutative property
+		-Associative property
+		-Mutiplicative identity
+		-Property of 0
+		-Distributive property
 Date : 31-5-16
 --------------
 Topics covered :
