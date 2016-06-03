@@ -9,7 +9,7 @@ Monday		|	Maths		| English		| PT			| Biology		| Kannada		| Social		| Hindi			| M
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Tuesday		|	English		| Social		| Computers		| Maths			| Chemistry		| Kannada		| Maths			| Physics	|
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-Wednesday	|	MPT			| Maths			| English		| Social		| Library		| Chemistry		| Drawing		| Kannada	|
+Wednesday	|	MPT		| Maths			| English		| Social		| Library		| Chemistry		| Drawing		| Kannada	|
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 Thursday	|	Maths		| Computer		| English		| Hindi			| PT			| Maths			| Kannada		| Social	|
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
