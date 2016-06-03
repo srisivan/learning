@@ -1,6 +1,16 @@
-
 Date : 31-May-2016
 ------------------
 Topics :
-	1: Question/answers on lesson 1(Computer software)
-
+	0: Learnt about Computer software
+		- System software (Operating system)
+		- Application software
+			+ Custom made software (Example : Library management, Hotel management, Fee collection etc)
+			+ General purpose software (Example : Word, IE, Paint etc)
+		- Utilities (Example : Backup of data, data recovery, disk utility)
+	1. Objectives of Operating System
+		- To hide details of hardware by creating abstraction from user
+		- Allocate resources to processor
+		- Provide a pleasant and effective user interface
+	2. Windows 
+		- Windows is GUI based operating systerm
+		- Windows XP is a version of Windows OS (XP means Experience)
