@@ -1,6 +1,13 @@
 
 INFO - Documents daily Math topics
 ----------------------------------
+
+Date : 2-June-2016
+-----------------
+	- Exercise in lesson 1C (First and Second main)
+	- FA work
+
+
 Date : 1-6-16
 -------------
 Topics covered :
@@ -11,6 +18,7 @@ Topics covered :
 		-Mutiplicative identity
 		-Property of 0
 		-Distributive property
+
 Date : 31-5-16
 --------------
 Topics covered :
@@ -24,6 +32,7 @@ Taken leave due to stomach ache.
 Topics covered :
 	1: Solved problems including negative and positive integers.
 	2: A word problem using negative and positive integers.
+
 Date : 30-5-16
 --------------
 Topics covered :
