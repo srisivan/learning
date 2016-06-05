@@ -1,5 +1,14 @@
 Documents Physics Learning
 --------------------------
+Date : 4-June-2016
+------------------
+Topics : Wrote notes(textbook)
+	   -Heat
+	   -Applications of expansion of solids
+	   -Applications of exansion of liquids
+	   -expansion of gas
+	   -temprature
+	   -thermometer
 Date : 31-May-2016
 ------------------
 Topics : about thermometer
