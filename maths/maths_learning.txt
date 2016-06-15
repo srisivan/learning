@@ -1,5 +1,15 @@
 INFO - Documents daily Math topics
 ----------------------------------
+Date : 14-June-2016
+-------------------
+	-Chapter 2 - Fractions
+	+Types of fractions
+		-Proper,numerator small than dinominator.
+		-Improper,numerator greater than dinominator.
+		-Mixed,a fraction containing a whole number and a proper fraction.
+Date : 13-June-2016
+-------------------
+	-Exercise in 1D (4th,5th,6th,7th and 8th main)
 Date : 8-June-2016
 ------------------
 	-Exercise in 1C (11th,12th main)
