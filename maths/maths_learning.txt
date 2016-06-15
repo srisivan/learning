@@ -1,7 +1,11 @@
 INFO - Documents daily Math topics
 ----------------------------------
+Date : 15-June-2016
+-------------------
+Mam absent.
 Date : 14-June-2016
 -------------------
+Topics covered :
 	-Chapter 2 - Fractions
 	+Types of fractions
 		-Proper,numerator small than dinominator.
