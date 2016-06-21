@@ -1,11 +1,17 @@
 INFO - Documents daily Math topics
 ----------------------------------
+Date : 21-June-2016
+-------------------
+Topics covered :
+	-Exercise in 2(B)
+		-3rd,4th,5th main.
+		-Correction for some.
 Date : 20-June-2016
 -------------------
 Topics covered :
 	-Chapter 2 - Exercise 2(A)
 		-12th,13th,14th,15th,16th,17th main.
-	-Exercise 2(B)
+	-Exercise 2(B)(multiplication of integers.)
 		-1st,2nd main.
 Date : 17-june-2016
 -------------------
