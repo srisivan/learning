@@ -1,5 +1,20 @@
 Documents Physics Learning
 --------------------------
+Date : 10 to 21-June-2016
+-------------------------
+Topics :
+	-Discussed about electronic thermometer
+		+it does not have any glass or mercury
+		+it has a sensitive tip to measure temprature.
+	-marked long/short question and answers in textbook
+	-made to write question and answers long/short in c.w
+	-wrote 6th 7th 8th(long answers ) in board
+	-discussed multiple choice questions,fill in the blanks in c.w
+Date : 7-June-2016
+------------------
+Topics :
+	-Disscussed about thermometer.
+	-Learnt about converting celsius into farenheit and vice versa
 Date : 4-June-2016
 ------------------
 Topics : Wrote notes(textbook)
