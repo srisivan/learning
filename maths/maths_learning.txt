@@ -1,5 +1,17 @@
 INFO - Documents daily Math topics
 ----------------------------------
+Date : 12-July-2016
+-------------------
+Topics covered :
+	-studied about types of angles:
+		- acute angle : less than 90 degrees.
+		- obtuse ange : more than 90 degrees.
+		- right angle : exactly 90 degrees.
+		- straight angle : exactly 180 degrees.
+		- zero angle : angle without any rotation.
+		- complete angle : which comes back to the same place after rotating.
+		- reflex angle : more than 180 degrees and less than 360 degrees.
+
 Date : 2 to 11-July-2016
 ------------------------
 Topics covered : 
