@@ -1,10 +1,12 @@
 INFO - Documents daily Math topics
 ----------------------------------
-Date : 12 july to 4-august
+Date : 12 july to 8-august
 --------------------------
 Topics covered :
 	-finished the rest of geometry
 	-started exponents and decimals.
+	-finished decimals.
+	-unit test.
 Date : 12-July-2016
 -------------------
 Topics covered :
