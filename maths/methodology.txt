@@ -1,0 +1,20 @@
+INFO : THE WAY WE SOLVE PROBLEMS IN ANY SUBJECT
+
+METHODS :
+	
+Step 1 : We have to understand the problem well.
+		-Understand the data given.
+		-Understand the unknown.
+		-Understand the condition.
+
+Step 2 : We have to find the relation between the given and the unknown.
+	    -Understand the connection between the given and the unknown.
+		-Devise a plan according to the relationships and conditions.
+
+Step 3 : Carry out the plan.
+	    -We have to carry out the devised plan in the problem.
+	
+Step 4 : Look back.(verify)
+		-Check each and every step carried out in the problem.
+		-Check wether the plan suits the prolem.
+		-Verify the answer.
