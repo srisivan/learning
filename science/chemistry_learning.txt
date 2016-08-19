@@ -1,5 +1,11 @@
 Documents Chemistry Learning
 ----------------------------
+Date : 18-august-2016
+---------------------
+Topics covered :
+	- disscussed about rust and chemical changes.
+	- looked at simple experiments of chemical changes.
+	- looked about applications of chemical changes.
 Date : 17-august-2016
 ---------------------
 Topics covered :
