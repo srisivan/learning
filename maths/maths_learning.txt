@@ -1,9 +1,13 @@
 INFO - Documents daily Math topics
 ----------------------------------
+Date : 19-august-2016
+---------------------
+Topics covered :
+	- exponents 8-b 1 to 5 main.
 Date : 17 to 18-august-2016
 ---------------------
 Topics covered : 
-	- exponents 8-b last main.
+	- exponents 8-a last main.
 	- law of exponents.
 Date : 9 to 14-august
 --------------------
