@@ -1,9 +1,18 @@
 INFO - Documents daily Math topics
 ----------------------------------
+Date : 22-august-2016
+---------------------
+Topics covered :
+	- exponents 8-c
+	- started new lesson "algebraic expressions"
+	- algebraic expressions : a combination of variables , constants and fundamental operations are  called algebraic expressions
+	- constants : every numerical value in an algebraic expression is called a constant.its value remains fixed and never changes.
+	- variables : every alphabetical value in an algebraic expression is called a variable or a litera.it can consist of any values.
+
 Date : 19-august-2016
 ---------------------
 Topics covered :
-	- exponents 8-b 1 to 5 main.
+	- exponents 8-b full.
 Date : 17 to 18-august-2016
 ---------------------
 Topics covered : 
