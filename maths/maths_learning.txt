@@ -1,5 +1,11 @@
 INFO - Documents daily Math topics
 ----------------------------------
+Date : 23-31-august-2016
+------------------------
+Topics covered :
+	- Algebraic expressions : how to add and subtract algebraic expressions.
+	-problems related to adding and subtracting algebraic expression,and converting word problems into algebraic expressions.
+
 Date : 22-august-2016
 ---------------------
 Topics covered :
