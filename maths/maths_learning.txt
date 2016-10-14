@@ -1,6 +1,11 @@
 INFO - Documents daily Math topics
 ----------------------------------
 -------- 2nd SEMESTER --------
+Date : 14-sep-2016
+------------------
+Topics covered :
+	-worked out some problems in the lesson "Traingles and their properties"
+
 Date : 13-sep-2016
 ------------------
 Topics covered :
