@@ -1,6 +1,11 @@
 INFO - Documents daily Math topics
 ----------------------------------
 -------- 2nd SEMESTER --------
+Date : 20-oct-2016
+------------------
+Topics covered :
+	- explained pythagoras therom
+	- gave problems based on pythogarean therom
 Date :18 and 19-oct-2016
 -----------------
 Topics covered :
