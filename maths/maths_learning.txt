@@ -1,6 +1,11 @@
 INFO - Documents daily Math topics
 ----------------------------------
 -------- 2nd SEMESTER --------
+Date : 25-oct-2016
+------------------
+Topics covered :
+	- explained lesson "simple equations"
+	- gave real-life problems to use simple equations
 Date : 21 and 24-oct-2016
 -------------------------
 Topics covered :
