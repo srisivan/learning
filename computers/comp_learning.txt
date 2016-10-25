@@ -1,4 +1,10 @@
 ----- 2nd SEMESTER -----
+Date : 25-oct-2016
+------------------
+Topics covered :
+	- took to lab.
+	- showed example of changing the properties of an object with an simple animation.
+
 Date : 20-oct-2016
 ------------------
 Topics :
